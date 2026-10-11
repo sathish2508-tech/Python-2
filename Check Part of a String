@@ -1,0 +1,7 @@
+word1 = input()
+word2 = input()
+index = int(input())
+length = len(word2)
+end_index = index + length
+com = word1[index : end_index]
+print(com == word2)
