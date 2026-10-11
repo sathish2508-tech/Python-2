@@ -1,0 +1,6 @@
+word = input()
+length = len(word)
+star = length - 4
+start = word[:2]
+end = word[length - 2:]
+print(start + "*" * star + end)
