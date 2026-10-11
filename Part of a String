@@ -1,0 +1,4 @@
+word = input()
+index = input()
+start_index = int(index)
+print(word[start_index:])
