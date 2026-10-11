@@ -1,0 +1,7 @@
+word1 = input()
+word2 = input()
+word1length3 = len(word1) - 3
+thirdlastword1 = word1[word1length3:]
+word2length3 = len(word2) - 3 
+thirdlastword2 = word2[word2length3:]
+print(thirdlastword1 == thirdlastword2)
