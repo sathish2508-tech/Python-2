@@ -1,0 +1,2 @@
+sum = input()
+print(int(sum[0]) + int(sum[1]) + int(sum[2]))
