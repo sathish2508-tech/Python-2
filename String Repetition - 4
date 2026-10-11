@@ -1,0 +1,5 @@
+word = input()
+number = input()
+number = int(number)
+repeat = (word + " ") * number
+print(repeat)
