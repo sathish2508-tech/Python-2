@@ -1,0 +1,7 @@
+a = input()
+b = input()
+dividend = int(a)
+divisor = int(b)
+quotient = int(dividend / divisor)
+remainder = dividend - (divisor * quotient)
+print(remainder)
