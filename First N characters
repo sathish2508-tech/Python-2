@@ -1,0 +1,4 @@
+word = input()
+N = input()
+end_index = int(N)
+print(word[:end_index])
