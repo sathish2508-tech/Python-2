@@ -1,0 +1,3 @@
+w = input()
+word = len(w)
+print(w[:word - 1])
