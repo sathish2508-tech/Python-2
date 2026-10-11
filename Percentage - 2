@@ -1,0 +1,5 @@
+n = input()
+num = int(n)
+per = 100 - 30
+value = (per / 100) * num
+print(float(value))
