@@ -1,0 +1,6 @@
+word1 = input()
+num1 = word1[0]
+num1 = int(num1)
+num2 = word1[1]
+num2 = int(num2)
+print(num1 + num2 > 7)
