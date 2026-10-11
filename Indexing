@@ -1,0 +1,5 @@
+W = input()
+N = input()
+N = int(N)
+0 <= N < len(W)
+print(W[N])
