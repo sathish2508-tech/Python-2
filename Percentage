@@ -1,0 +1,6 @@
+p = input()
+p = int(p)
+num = 200
+value = (p / 100) * num
+Precentage = float(value)
+print(Precentage)
