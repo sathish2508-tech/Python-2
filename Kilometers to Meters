@@ -1,0 +1,5 @@
+a = input()
+num = float(a)
+km = num * 1000
+Kilometers = int(km)
+print(Kilometers)
