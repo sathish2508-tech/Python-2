@@ -1,0 +1,6 @@
+w = input()
+X = input()
+Y = input()
+start_index = int(X)
+end_index = int(Y) + 1
+print(w[start_index:end_index])
