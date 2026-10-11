@@ -1,0 +1,6 @@
+a = input()
+b = input()
+A = float(a)
+B = float(b)
+Add = A + B
+print("Sum: " + str(Add))
