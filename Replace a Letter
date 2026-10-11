@@ -1,0 +1,7 @@
+word = input()
+index = input()
+letter = input()
+index = int(index)
+start = word[:index]
+end = word[index + 1:]
+print(start + letter + end)
