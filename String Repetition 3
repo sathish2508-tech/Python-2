@@ -1,0 +1,7 @@
+w = input()
+n = input()
+N = int(n)
+length = len(w)
+word = length - 3
+char = w[word:] * N
+print(char)
